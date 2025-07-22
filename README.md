@@ -50,6 +50,7 @@ The data for this project was collected from Kentucky Department of Education we
 
 
 ## Key Findings
+ I created a Tableau Story (link) to visualizations of key findings.
  Description of problem or question you aimed to solve. Summary of the key findings from the data analysis. Any data inconsistencies, limitations, or issues that could have influenced your results.
 
 
