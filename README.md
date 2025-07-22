@@ -49,6 +49,11 @@ Methods
 Rationale for these methods
 
 
+Project Summary - Description of problem or question you aimed to solve. Summary of the key findings from the data analysis. Any data inconsistencies, limitations, or issues that could have influenced your results.
+
+
+
+
 Explanation of why this is a suitable and effective approach
 
 
