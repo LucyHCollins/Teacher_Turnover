@@ -10,7 +10,7 @@ In the past __ years, teacher turnover has increased by %%% in Kentucky's public
 ## Project Overview
 
 ## Project Objective 
-The objective of this project is to discovery an correlations between several factors and teacher turnover in Kentucky. Kentucky's teachers are leaving the profession in higher numbers than previously seen. I am curious what, if any factors, are most closely related to turnover. The factors I am choosing to compare include: salary and three categories of working conditions: student behavior, school climate, and school leadership. I hope to uncover data that shows any possible correlations.
+The objective of this project is to discover any correlations between several factors and teacher turnover in Kentucky. Kentucky's teachers are leaving the profession in higher numbers than previously seen. I am curious what, if any factors, are most closely related to turnover. The factors I am choosing to compare include: salary and three categories of working conditions: student behavior, school climate, and school leadership. I hope to uncover data that shows any possible correlations.
 
 ## Methods and Rationale
 Explanation of why this is a suitable and effective approach
@@ -24,7 +24,8 @@ Explanation of why this is a suitable and effective approach
 ## Gathering the Data
 
 Data in this project comes from the Kentucky Derpment of Education https://reportcard.kyschools.us/data-download?pid=c340f7d5-efbd-5fb8-cab8-3a128835f84c Under the Overview --> Faculty Profile --> Teacher Working Conditions, Teacher Turnover
-  Salary data come from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Sfaff Data --> Certified Salaries (1985-2025)
+
+Salary data came from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Sfaff Data --> Certified Salaries (1985-2025)
 The data for this project was collected from Kentucky Department of Education website. Three main data sets were included in the analysis. Teacher Salary included the average certified salary for each of Kentucky's school districts. The Teacher Turnvover Percent was calculated by the dividing the total number of the teachers in that district by the number of teachers who were not employeed. The Working Conditions data set included ratings given by the teachers based on three categores: school leadership, managing student behavior, and school climate. 
 
 ### Data Dictionary - A description of each variable in the data sets.
@@ -46,7 +47,6 @@ The data for this project was collected from Kentucky Department of Education we
   
   Turnover Percent - A percentage created by dividing the total number of certified teachers in the district divided by the number who were not employeed the following year. 
 
-## Methods and Rationale
 
 
 ## Key Findings
