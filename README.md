@@ -28,14 +28,13 @@ Data in this project comes from the Kentucky Derpment of Education https://repor
 Salary data came from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Sfaff Data --> Certified Salaries (1985-2025)
 The data for this project was collected from Kentucky Department of Education website. Three main data sets were included in the analysis. Teacher Salary included the average certified salary for each of Kentucky's school districts. The Teacher Turnvover Percent was calculated by the dividing the total number of the teachers in that district by the number of teachers who were not employeed. The Working Conditions data set included ratings given by the teachers based on three categores: school leadership, managing student behavior, and school climate. 
 
-### Data Dictionary - A description of each variable in the data sets.
-  District Number - An indiviual number given to each school disctrict in Kentucky.
-  
-  District Name - The name of the school district.
-  
-  Impact Measure - 
-  
-  Impact Value - A quantified average rating for that impact measure based on an average score given from each teacher in the district.
+### Data Dictionary 
+ | Column Name | Description | Data Type |
+ |-----------|-------------|------------|
+ | District Number | A unique number given to each school disctrict in Kentucky | integer |
+ | District Name | The name of the school district | string |
+ | Impact Measure | The category of rating being measured on the survey | string |
+  | Impact Value | A percetange value given as favorable rating | integer |
   
   Average Salary - The average salary for all certified employees in that district.
   
