@@ -23,7 +23,7 @@ Explanation of why this is a suitable and effective approach
   
 ## Data Source
 
-Data in this project comes from the Kentucky Derpment of Education. 
+Data in this project comes from the Kentucky Derpment of Education.  
 https://reportcard.kyschools.us/data-download?pid=c340f7d5-efbd-5fb8-cab8-3a128835f84c   
 Under the Overview > Faculty Profile > Teacher Working Conditions, Teacher Turnover.
 
