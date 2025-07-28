@@ -8,6 +8,9 @@ In the past __ years, teacher turnover has increased by %%% in Kentucky's public
 - Instructions for setting up virtual environment
 
 ## Project Overview
+- A description of what the user should expect from the project once it is running
+- Assume the reviewer has no coding background; keep language clear and simple
+
 
 ## Project Objective 
 The objective of this project is to discover any correlations between several factors and teacher turnover in Kentucky. Kentucky's teachers are leaving the profession in higher numbers than previously seen. I am curious what, if any factors, are most closely related to turnover. The factors I am choosing to compare include: salary and three categories of working conditions: student behavior, school climate, and school leadership. I hope to uncover data that shows any possible correlations.
@@ -49,9 +52,8 @@ Three main data sets were included in the analysis. Teacher Salary included the 
 
 
 
-## Key Findings
- I created a Tableau Story (link) to visualizations of key findings.
- Description of problem or question you aimed to solve. Summary of the key findings from the data analysis. Any data inconsistencies, limitations, or issues that could have influenced your results.
+## Project Summary
+ Description of problem or question you aimed to solve. Summary of the key findings from the data analysis. Any data inconsistencies, limitations, or issues that could have influenced your results. Written plainly.
 
 
 
