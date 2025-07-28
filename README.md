@@ -21,12 +21,14 @@ Explanation of why this is a suitable and effective approach
   This project was developed in Jupyter Notebooks to allow for clean, narrative-driven presentation of the code and the results.
   Visualizations were created in Tableau Public
   
-## Gathering the Data
+## Data Source
 
 Data in this project comes from the Kentucky Derpment of Education https://reportcard.kyschools.us/data-download?pid=c340f7d5-efbd-5fb8-cab8-3a128835f84c Under the Overview --> Faculty Profile --> Teacher Working Conditions, Teacher Turnover
 
-Salary data came from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Sfaff Data --> Certified Salaries (1985-2025)
-The data for this project was collected from Kentucky Department of Education website. Three main data sets were included in the analysis. Teacher Salary included the average certified salary for each of Kentucky's school districts. The Teacher Turnvover Percent was calculated by the dividing the total number of the teachers in that district by the number of teachers who were not employeed. The Working Conditions data set included ratings given by the teachers based on three categores: school leadership, managing student behavior, and school climate. 
+Salary data came from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Staff Data --> Certified Salaries (1985-2025)
+
+## Data Summary
+Three main data sets were included in the analysis. Teacher Salary included the average certified salary for each of Kentucky's school districts for the 2023-2024 school year. The Turnvover Percent reports what percentage of teachers did not return to work in the same district. This includes both teachers who left the teaching profession and teachers who changed districts. The Working Conditions data set included ratings given by the teachers anonymously on the bi-annual Imapct Survey. I used three working conditions: school leadership, managing student behavior, and school climate. 
 
 ### Data Dictionary 
  | Column Name | Description | Data Type |
@@ -36,7 +38,7 @@ The data for this project was collected from Kentucky Department of Education we
  | Impact Measure | The category of rating being measured on the survey | string |
 | Impact Value | A percetange value given as favorable rating | integer |
 | Average Salary | The average salary for all certified employees in that district | float |
- | Managing Student Behavior | An impact measure describe as... | string |
+ | Managing Student Behavior | An impact measure relating to how student discipline is managed | string |
   | School Climate | An impact measure relating to the quality and character of school life | string |
   | School Leadership |  An impact measure relating to school administration | string |
   | Turnover Percent | The percentage of teachers who did not return to the same district for employment | float |
