@@ -31,20 +31,15 @@ The data for this project was collected from Kentucky Department of Education we
 ### Data Dictionary 
  | Column Name | Description | Data Type |
  |-----------|-------------|------------|
- | District Number | A unique number given to each school disctrict in Kentucky | integer |
+ | District Number | A unique number assigned to each school disctrict in Kentucky | integer |
  | District Name | The name of the school district | string |
  | Impact Measure | The category of rating being measured on the survey | string |
-  | Impact Value | A percetange value given as favorable rating | integer |
-  
-  Average Salary - The average salary for all certified employees in that district.
-  
-  Managing Student Behavior - An impact measure describe as...
-  
-  School Climate - An impact measure described as...
-  
-  School Leadership - An impact measure described as...
-  
-  Turnover Percent - A percentage created by dividing the total number of certified teachers in the district divided by the number who were not employeed the following year. 
+| Impact Value | A percetange value given as favorable rating | integer |
+| Average Salary | The average salary for all certified employees in that district | float |
+ | Managing Student Behavior | An impact measure describe as... | string |
+  | School Climate | An impact measure relating to the quality and character of school life | string |
+  | School Leadership |  An impact measure relating to school administration | string |
+  | Turnover Percent | The percentage of teachers who did not return to the same district for employment | float |
 
 
 
