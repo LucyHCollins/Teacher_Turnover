@@ -23,9 +23,13 @@ Explanation of why this is a suitable and effective approach
   
 ## Data Source
 
-Data in this project comes from the Kentucky Derpment of Education https://reportcard.kyschools.us/data-download?pid=c340f7d5-efbd-5fb8-cab8-3a128835f84c Under the Overview --> Faculty Profile --> Teacher Working Conditions, Teacher Turnover
+Data in this project comes from the Kentucky Derpment of Education. 
+https://reportcard.kyschools.us/data-download?pid=c340f7d5-efbd-5fb8-cab8-3a128835f84c   
+Under the Overview > Faculty Profile > Teacher Working Conditions, Teacher Turnover.
 
-Salary data came from the Kentucky Department of Education https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx Average Certified and Classified Staff Data --> Certified Salaries (1985-2025)
+Salary data came from the Kentucky Department of Education. 
+https://www.education.ky.gov/districts/FinRept/Pages/School%20District%20Personnel%20Information.aspx   
+Average Certified and Classified Staff Data > Certified Salaries (1985-2025)
 
 ## Data Summary
 Three main data sets were included in the analysis. Teacher Salary included the average certified salary for each of Kentucky's school districts for the 2023-2024 school year. The Turnvover Percent reports what percentage of teachers did not return to work in the same district. This includes both teachers who left the teaching profession and teachers who changed districts. The Working Conditions data set included ratings given by the teachers anonymously on the bi-annual Imapct Survey. I used three working conditions: school leadership, managing student behavior, and school climate. 
