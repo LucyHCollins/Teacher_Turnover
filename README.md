@@ -1,19 +1,31 @@
 # Teacher Turnover
-*A data analysis project designed to find correlations between teacher turnover, salary, and teacher working conditions in Kentucky's public schools.*
-
-In the past __ years, teacher turnover has increased by %%% in Kentucky's public schools. Teachers leave for other districts or leave the profession. This project idea came about because I am a former public school teacher who left public eduation to look for other career opportunities.
-
-## Project Setup Instructions
-- How to download, install and run this project
-- Instructions for setting up virtual environment
-
-## Project Overview
-- A description of what the user should expect from the project once it is running
-- Assume the reviewer has no coding background; keep language clear and simple
-
+This data analysis project is designed to find correlations between teacher turnover, salary, and teacher working conditions in Kentucky's public schools. In the past 5 years, since COVID, teacher turnover has in Kentucky's public schools. Many teachers leave for other districts or leave the profession completely. This project idea came about because I am a former public school teacher who left public eduation to look for other career opportunities. 
 
 ## Project Objective 
-The objective of this project is to discover any correlations between several factors and teacher turnover in Kentucky. Kentucky's teachers are leaving the profession in higher numbers than previously seen. I am curious what, if any factors, are most closely related to turnover. The factors I am choosing to compare include: salary and three categories of working conditions: student behavior, school climate, and school leadership. I hope to uncover data that shows any possible correlations.
+The objective of this project is to discover any correlations between several factors and teacher turnover in Kentucky. The factors I am choosing to compare are both quantitative and qualitative and include salary, student behavior, school climate, and school leadership. 
+
+## Project Setup Instructions
+The requirements to run this project are included in the 'Requirements.txt' folder.
+I created this project in a Jupyter notebook using Pything (3.13.1) in a virtual environment.
+
+In order to run this project:
+1. Clone the repository.
+2. Save the Folder.
+3. Open Jupyter Notebook from the command line or start menu.
+4. Go to the where you saved the notebook.
+5. Open 'Teacher_Turnover.ipynb'
+6. Open the notebook and click Run All.
+
+If you choose to run it in a virtual environment, follow instructions in this link: https://www.youtube.com/watch?v=Y21OR1OPC9A
+On a Mac:
+From your terminal run: python3 -m venv env
+Run sourc env/bin/activate
+
+On Windows:
+From your termin run: python -m venv env
+Run env\Scripts\activate.bat
+
+
 
 ## Methods and Rationale
 Explanation of why this is a suitable and effective approach
