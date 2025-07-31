@@ -1,8 +1,8 @@
 # Teacher Turnover
-This data analysis project is designed to find correlations between teacher turnover, salary, and teacher working conditions in Kentucky's public schools. In the past 5 years, since COVID, teacher turnover has in Kentucky's public schools. Many teachers leave for other districts or leave the profession completely. This project idea came about because I am a former public school teacher who left public eduation to look for other career opportunities. 
+This data analysis project is designed to find correlations between teacher turnover, salary, and teacher working conditions in Kentucky's public schools. In the past 5 years since COVID, teacher turnover has increased in Kentucky's public schools. Many teachers leave for other districts or leave the profession completely. This project idea came about because I am a former public school teacher who left public eduation to look for other career opportunities. 
 
 ## Project Objective 
-The objective of this project is to discover any correlations between several factors and teacher turnover in Kentucky. The factors I am choosing to compare are both quantitative and qualitative and include salary, student behavior, school climate, and school leadership. 
+The objective of this project is to discover any correlations between several factors and teacher turnover. The factors I am choosing to compare are both quantitative and qualitative and include salary, student behavior, school climate, and school leadership. 
 
 ## Project Setup Instructions
 The requirements to run this project are included in the 'Requirements.txt' folder.
@@ -14,9 +14,9 @@ In order to run this project:
 3. Open Jupyter Notebook from the command line or start menu.
 4. Go to the where you saved the notebook.
 5. Open 'Teacher_Turnover.ipynb'
-6. Open the notebook and click Run All.
+6. Click Run All.
 
-If you choose to run it in a virtual environment, follow instructions in this link: https://www.youtube.com/watch?v=Y21OR1OPC9A
+If you choose to run it in a virtual environment:
 On a Mac:
 From your terminal run: python3 -m venv env
 Run sourc env/bin/activate
