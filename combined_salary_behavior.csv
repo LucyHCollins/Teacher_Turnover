@@ -1,1 +1,168 @@
 dist_no,district_name,average_salary_23-24,impact_measure,impact_value
+001,ADAIR ,56572.35,Managing Student Behavior,55
+005,ALLEN ,58546.96,Managing Student Behavior,46
+006,ANCHORAGE,81282.49,Managing Student Behavior,82
+011,ANDERSON ,58451.95,Managing Student Behavior,52
+012,ASHLAND,56241.45,Managing Student Behavior,64
+013,AUGUSTA,55779.79,Managing Student Behavior,78
+015,BALLARD ,57308.89,Managing Student Behavior,70
+016,BARBOURVILLE,55957.51,Managing Student Behavior,75
+017,BARDSTOWN,69103.89,Managing Student Behavior,67
+021,BARREN ,61690.39,Managing Student Behavior,68
+025,BATH ,53509.56,Managing Student Behavior,61
+026,BEECHWOOD,65443.89,Managing Student Behavior,71
+031,BELL ,56385.76,Managing Student Behavior,74
+032,BELLEVUE,61490.69,Managing Student Behavior,49
+034,BEREA,62453.16,Managing Student Behavior,67
+035,BOONE ,66526.38,Managing Student Behavior,63
+041,BOURBON ,57106.12,Managing Student Behavior,70
+042,BOWLING GREEN,61376.15,Managing Student Behavior,66
+045,BOYD ,60135.12,Managing Student Behavior,62
+051,BOYLE ,62925.34,Managing Student Behavior,71
+055,BRACKEN ,55834.65,Managing Student Behavior,55
+061,BREATHITT ,57608.95,Managing Student Behavior,75
+065,BRECKINRIDGE ,59751.11,Managing Student Behavior,71
+071,BULLITT ,65462.26,Managing Student Behavior,60
+072,BURGIN,58859.93,Managing Student Behavior,74
+075,BUTLER ,58009.65,Managing Student Behavior,70
+081,CALDWELL ,58124.08,Managing Student Behavior,68
+085,CALLOWAY ,60505.8,Managing Student Behavior,75
+091,CAMPBELL ,64016.82,Managing Student Behavior,61
+092,CAMPBELLSVILLE,58217.64,Managing Student Behavior,65
+095,CARLISLE ,54517.97,Managing Student Behavior,72
+101,CARROLL ,61747.49,Managing Student Behavior,57
+105,CARTER ,57834.14,Managing Student Behavior,77
+111,CASEY ,55405.28,Managing Student Behavior,66
+113,CAVERNA,60412.1,Managing Student Behavior,47
+115,CHRISTIAN ,53351.72,Managing Student Behavior,68
+121,CLARK ,57213.3,Managing Student Behavior,64
+125,CLAY ,55436.83,Managing Student Behavior,73
+131,CLINTON ,54423.98,Managing Student Behavior,45
+132,CLOVERPORT,50823.64,Managing Student Behavior,51
+133,RBIN,61271.17,Managing Student Behavior,81
+134,VINGTON,60668.52,Managing Student Behavior,56
+135,CRITTENDEN ,56042.02,Managing Student Behavior,62
+141,CUMBERLAND ,55934.83,Managing Student Behavior,58
+143,DANVILLE,60523.11,Managing Student Behavior,60
+145,DAVIESS ,62673.99,Managing Student Behavior,67
+146,DAWSON SPGS,54456.02,Managing Student Behavior,79
+147,DAYTON,65067.13,Managing Student Behavior,64
+149,E BERNSTADT,60289.49,Managing Student Behavior,76
+151,EDMONSON ,53753.59,Managing Student Behavior,84
+152,ELIZABETHTOWN,61402.57,Managing Student Behavior,61
+155,ELLIOTT ,51092.88,Managing Student Behavior,64
+156,EMINENCE,53070.07,Managing Student Behavior,72
+157,ERLANGER,65076.99,Managing Student Behavior,67
+161,ESTILL ,56432.35,Managing Student Behavior,60
+162,FAIRVIEW,56723.67,Managing Student Behavior,79
+165,FAYETTE ,75735.12,Managing Student Behavior,63
+171,FLEMING ,53798.2,Managing Student Behavior,67
+175,FLOYD ,55825.19,Managing Student Behavior,72
+176,FT THOMAS,72662.72,Managing Student Behavior,79
+177,FRANKFORT,56272.32,Managing Student Behavior,52
+181,FRANKLIN ,60698.2,Managing Student Behavior,68
+185,FULTON ,53242.71,Managing Student Behavior,59
+191,GALLATIN ,59054.83,Managing Student Behavior,59
+195,GARRARD ,55517.21,Managing Student Behavior,67
+197,GLASGOW,63350.95,Managing Student Behavior,69
+201,GRANT ,53209.63,Managing Student Behavior,53
+205,GRAVES ,57594.36,Managing Student Behavior,67
+211,GRAYSON ,55735.08,Managing Student Behavior,67
+215,GREEN ,55894.84,Managing Student Behavior,69
+221,GREENUP ,53997.78,Managing Student Behavior,73
+225,HANCK ,63159.13,Managing Student Behavior,77
+231,HARDIN ,61133.53,Managing Student Behavior,66
+235,HARLAN ,53959.52,Managing Student Behavior,74
+236,HARLAN,53713.06,Managing Student Behavior,56
+241,HARRISON ,59390.47,Managing Student Behavior,65
+245,HART ,56398.54,Managing Student Behavior,78
+246,HAZARD,56948.11,Managing Student Behavior,90
+251,HENDERSON ,59957.33,Managing Student Behavior,69
+255,HENRY ,57382.47,Managing Student Behavior,76
+261,HICKMAN ,54861.85,Managing Student Behavior,73
+265,HOPKINS ,55589.92,Managing Student Behavior,77
+271,JACKSON ,54695.85,Managing Student Behavior,77
+272,JACKSON,58647.85,Managing Student Behavior,81
+275,JEFFERSON ,79020.21,Managing Student Behavior,57
+276,JENKINS,54786.19,Managing Student Behavior,57
+281,JESSAMINE ,64027.29,Managing Student Behavior,67
+285,JOHNSON ,57739.66,Managing Student Behavior,80
+291,KENTON ,66243.62,Managing Student Behavior,62
+295,KNOTT ,58005.78,Managing Student Behavior,66
+301,KNOX ,54425.9,Managing Student Behavior,70
+305,LARUE ,61748.05,Managing Student Behavior,62
+311,LAUREL ,59836.63,Managing Student Behavior,73
+315,LAWRENCE ,53074.18,Managing Student Behavior,74
+325,LESLIE ,54677.19,Managing Student Behavior,85
+331,LETCHER ,57800.19,Managing Student Behavior,76
+335,LEWIS ,55279.72,Managing Student Behavior,73
+341,LINLN ,55023.11,Managing Student Behavior,62
+345,LIVINGSTON ,60098.16,Managing Student Behavior,55
+351,LOGAN ,54721.49,Managing Student Behavior,76
+354,LUDLOW,66556.19,Managing Student Behavior,71
+361,LYON ,60145.27,Managing Student Behavior,70
+365,MADISON ,59636.48,Managing Student Behavior,66
+371,MAGOFFIN ,54306.53,Managing Student Behavior,68
+375,MARION ,63777.07,Managing Student Behavior,72
+381,MARSHALL ,62783.46,Managing Student Behavior,69
+385,MARTIN ,56109.37,Managing Student Behavior,75
+391,MASON ,60133.37,Managing Student Behavior,54
+392,MAYFIELD,59814.52,Managing Student Behavior,66
+395,MCCRACKEN ,62949.79,Managing Student Behavior,65
+401,MCCREARY ,54436.76,Managing Student Behavior,55
+405,MCLEAN ,56281.21,Managing Student Behavior,77
+411,MEADE ,61642.99,Managing Student Behavior,71
+415,MENIFEE ,55723.46,Managing Student Behavior,56
+421,MERCER ,62402.03,Managing Student Behavior,58
+425,METCALFE ,57669.62,Managing Student Behavior,56
+426,MIDDLESBORO,56036.44,Managing Student Behavior,58
+431,MONROE ,58535.98,Managing Student Behavior,85
+435,MONTGOMERY ,56357.44,Managing Student Behavior,65
+441,MORGAN ,56060.32,Managing Student Behavior,77
+445,MUHLENBERG ,59076.82,Managing Student Behavior,61
+446,MURRAY,60985.54,Managing Student Behavior,76
+451,NELSON ,61028.7,Managing Student Behavior,65
+452,NEWPORT,64794.17,Managing Student Behavior,47
+455,NICHOLAS ,53656.16,Managing Student Behavior,63
+461,OHIO ,57231.55,Managing Student Behavior,72
+465,OLDHAM ,58292.78,Managing Student Behavior,71
+471,OWEN ,55645.36,Managing Student Behavior,57
+472,OWENSBORO,62302.0,Managing Student Behavior,62
+475,OWSLEY ,59120.58,Managing Student Behavior,66
+476,PADUCAH,64048.69,Managing Student Behavior,51
+477,PAINTSVILLE,61438.69,Managing Student Behavior,80
+478,PARIS,57965.27,Managing Student Behavior,54
+481,PENDLETON ,59417.1,Managing Student Behavior,58
+485,PERRY ,59355.16,Managing Student Behavior,77
+491,PIKE ,56130.6,Managing Student Behavior,80
+492,PIKEVILLE,68340.5,Managing Student Behavior,82
+495,POWELL ,56051.3,Managing Student Behavior,63
+501,PULASKI ,54912.32,Managing Student Behavior,73
+502,RACELAND,59070.2,Managing Student Behavior,69
+505,ROBERTSON ,54949.19,Managing Student Behavior,56
+511,ROCKCASTLE ,56018.9,Managing Student Behavior,68
+515,ROWAN ,55220.04,Managing Student Behavior,58
+521,RUSSELL ,55834.57,Managing Student Behavior,67
+522,RUSSELL,62925.14,Managing Student Behavior,77
+523,RUSSELLVILLE,52722.92,Managing Student Behavior,49
+524,SCIENCE HILL,59214.44,Managing Student Behavior,58
+525,SCOTT,58763.22,Managing Student Behavior,67
+531,SHELBY ,60476.75,Managing Student Behavior,63
+535,SIMPSON ,61703.46,Managing Student Behavior,69
+536,SOMERSET,59147.32,Managing Student Behavior,66
+537,SOUTHGATE,55674.9,Managing Student Behavior,74
+541,SPENCER ,62282.13,Managing Student Behavior,80
+545,TAYLOR ,57631.08,Managing Student Behavior,62
+551,TODD ,53237.8,Managing Student Behavior,72
+555,TRIGG ,57312.64,Managing Student Behavior,69
+561,TRIMBLE ,54994.35,Managing Student Behavior,56
+565,UNION ,55875.91,Managing Student Behavior,60
+567,WALTON VERONA,62505.41,Managing Student Behavior,72
+571,WARREN ,58892.91,Managing Student Behavior,66
+575,WASHINGTON ,64346.29,Managing Student Behavior,75
+581,WAYNE ,54160.67,Managing Student Behavior,56
+585,WEBSTER ,53748.45,Managing Student Behavior,74
+591,WHITLEY ,58899.08,Managing Student Behavior,78
+593,WILLIAMSTOWN,55892.89,Managing Student Behavior,62
+595,WOLFE ,60554.68,Managing Student Behavior,79
+601,WOODFORD ,61145.86,Managing Student Behavior,70
