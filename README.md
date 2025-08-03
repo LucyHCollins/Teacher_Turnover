@@ -60,6 +60,7 @@ Three main data sets were included in the analysis. Teacher Salary included the 
  | Managing Student Behavior | An impact measure relating to how student discipline is managed | string |
   | School Climate | An impact measure relating to the quality and character of school life | string |
   | School Leadership |  An impact measure relating to school administration | string |
+  | Average Impact Value | An average of: managing student behavior, school climate, school leadership impact values | integer |
   | Turnover Percent | The percentage of teachers who did not return to the same district for employment | float |
 
 
