@@ -7,7 +7,7 @@ The objective of this project is to discover any correlations between several fa
 
 ## Project Setup Instructions
 The requirements to run this project are included in the 'Requirements.txt' folder.
-I created this project in a Jupyter notebook using Pything (3.13.1) in a virtual environment.
+I created this project in a Jupyter notebook using Python (3.13.1) in a virtual environment.
 
 In order to run this project:
 1. Clone the repository.
@@ -29,7 +29,7 @@ Run env\Scripts\activate.bat
 
 
 ## Technologies Used
-  Pandas was used to clean and minpulate the data sets
+  Pandas was used to clean and minpulate the data sets.
   This project was developed in Jupyter Notebooks to allow for clean, narrative-driven presentation of the code and the results.
   Visualizations were created using matplotlib.
   
