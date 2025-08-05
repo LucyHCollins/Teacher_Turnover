@@ -2,7 +2,7 @@
 This data analysis project is designed to find correlations between teacher turnover, salary, and teacher working conditions in Kentucky's 171 public school districts. In the past 5 years teacher turnover has increased in Kentucky's public schools. Many teachers leave for other districts or leave the profession completely. This project idea came about because I am a former public school teacher who left public eduation to look for other career opportunities. 
 
 ## Project Objective 
-The objective of this project is to discover any correlations between several factors and teacher turnover. The factors I am choosing to compare are both quantitative and qualitative and include salary, student behavior, school climate, and school leadership. My methods include cleaning and merging data published by the Kentucky Department of Education. I am removing extraneous columns and info so I can clearly and concisely examine whether any correlations occur between these factors and teacher turnover at the district level.
+The objective of this project is to discover any correlations between several factors and teacher turnover. The factors I am choosing to compare are both quantitative and qualitative and include salary, student behavior, school climate, and school leadership. My methods include cleaning and merging data published by the Kentucky Department of Education. I am removing extraneous columns and info so I can clearly and concisely examine whether any correlations occur between these factors and teacher turnover at the district level. I ran a regression analysis comparing turnover as the dependent variable to salary, school climate, managing student behavior, and school leadership as the four independent variables. I used the R values to understand to what extent those variables affected teacher turnover.
 
 
 ## Project Setup Instructions
@@ -31,7 +31,7 @@ Run env\Scripts\activate.bat
 ## Technologies Used
   Pandas was used to clean and minpulate the data sets.
   This project was developed in Jupyter Notebooks to allow for clean, narrative-driven presentation of the code and the results.
-  Visualizations were created using matplotlib.
+  Visualizations were created using matplotlib. 
   
 ## Data Source
 
@@ -63,9 +63,9 @@ Three main data sets were included in the analysis. Teacher Salary included the 
 
 
 ## Project Summary
- In summary, there is not a clear correlation between any single factor that I examined and teacher turnover. 
+ In summary, the R-values showed the strongest correlation with teacher turnover was school climate. The second strongest was managing student behavior. Both school leadership and salary were insignificant. 
  
-Further analysis of this data should span multiple school years to see if change over time correlated with teacher turnover. For example, did districts whose average satisfaction score decreased over multiple years see an increase in teacher turnover during that same period? Other factors to look at might include a district's Kentucky Summative Assessment(KSA) data, the socio-economic status of a district's student population, and the salary verses the cost of living for the district.
+Further analysis of this data should span multiple school years to see how change over time affects results. For example, did districts whose average satisfaction score decreased over multiple years see an increase in teacher turnover during that same period? Other independent variables could include a district's Kentucky Summative Assessment(KSA) data and the socio-economic status of a district's student population. 
 
 
 
