@@ -31,7 +31,7 @@ Run env\Scripts\activate.bat
 ## Technologies Used
   Pandas was used to clean and minpulate the data sets.
   This project was developed in Jupyter Notebooks to allow for clean, narrative-driven presentation of the code and the results.
-  Visualizations were created using matplotlib. 
+  Visualizations were created using matplotlib. Regression analyses used statsmodels.
   
 ## Data Source
 
@@ -49,23 +49,24 @@ Three main data sets were included in the analysis. Teacher Salary included the 
 ### Data Dictionary 
  | Column Name | Description | Data Type |
  |-----------|-------------|------------|
- | District Number | A unique number assigned to each school disctrict in Kentucky | integer |
- | District Name | The name of the school district | string |
- | Impact Measure | The category of rating being measured on the survey | string |
-| Impact Value | A percetange value given as favorable rating | integer |
+ | District Number | A unique number assigned to each school disctrict in Kentucky | int |
+ | District Name | The name of the school district | obj |
+ | Impact Measure | The category of rating being measured on the survey | obj |
+| Impact Value | A percetange value given as favorable rating | int |
 | Average Salary | The average salary for all certified employees in that district | float |
- | Managing Student Behavior | An impact measure relating to how student discipline is managed | string |
-  | School Climate | An impact measure relating to the quality and character of school life | string |
-  | School Leadership |  An impact measure relating to school administration | string |
-  | Average Impact Value | An average of: managing student behavior, school climate, school leadership impact values | integer |
+ | Managing Student Behavior | An impact measure relating to how student discipline is managed | obj |
+  | School Climate | An impact measure relating to the quality and character of school life | obj |
+  | School Leadership |  An impact measure relating to school administration | obj |
+  | Average Impact Value | An average of: managing student behavior, school climate, school leadership impact values | float |
   | Turnover Percent | The percentage of teachers who did not return to the same district for employment | float |
+  | R-squared value | A range between 0 and 1, with 0 being a week relationship and 1 being a strong relationship between a dependent and independent variable | float |
 
 
 
 ## Project Summary
  In summary, the R-values showed that the strongest correlations with teacher turnover were school climate and managing student behavior at about 11%. Salary was insignificant at less than 1% and school leadership was small at 3%. 
  
-Further analysis of this data should span multiple school years to see how change over time affects results. For example, did districts whose average satisfaction score decreased over multiple years see an increase in teacher turnover during that same period? Other independent variables could include a district's Kentucky Summative Assessment(KSA) data and the socio-economic status of a district's student population. 
+Further analysis of this data should span multiple school years to see how change over time affects results. For example, did districts whose average satisfaction score decreased over multiple years see an increase in teacher turnover during that same period? Other independent variables could include a district's Kentucky Summative Assessment(KSA) scores and the socio-economic status of a district's student population. 
 
 
 
